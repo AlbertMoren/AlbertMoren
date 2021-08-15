@@ -1,4 +1,4 @@
-## Óla <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, sou [Albert Moren!](https://www.linkedin.com/in/albertmoren/)
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Albert Moren!](https://www.linkedin.com/in/albertmoren/)
 <!--- acima:titulo principal e abaixo são os icones com seus respectivos links-->
 <a href="https://www.linkedin.com/in/AlbertMoren/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -9,13 +9,13 @@
 
 <br />
 
-### Sobre me 🚀
-🎓 Atualmente sou estudante de ciências da computação - UFC.\
-🌱 Nas horas vagas curto games online, sair com amigos, viajar e focar em projetos pessoais.\
-✍️ Atualmente aprendendo n liguagens.\
-💡 Aspirante a criador de games.
+### about me 🚀
+🎓 I am currently a computer science student - UFC.\
+🌱 In my spare time, short online games, hanging out with friends, traveling and focusing on personal projects.\
+✍️ currently learning  n languages.\
+💡 Aspiring game maker.
 
-### 🛠 &nbsp;Ferramentas e linguaguens
+### 🛠 &nbsp;Tools and languages 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
