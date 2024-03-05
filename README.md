@@ -35,8 +35,6 @@
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 <!---
-AlbertMoren/AlbertMoren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlbertMoren.AlbertMoren) colocar depois q tiver mais movimentado
 --->
